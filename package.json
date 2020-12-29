@@ -1,12 +1,12 @@
 {
 	"name": "watchman-wrapper",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A simple typed wrapper around fb-watchman.",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"dependencies": {
 		"fb-watchman": "^2.0.1",
-		"sundryjs": "0.1.0"
+		"sundryjs": "^0.1.1"
 	},
 	"devDependencies": {
 		"@babel/cli": "7.12.10",
